@@ -3,7 +3,7 @@
 I'm a first-year at Stanford double-majoring in CS and [Art Practice](https://drive.google.com/drive/folders/1Gjs3cpn3r-245lZ_obt6YkLqLzuztpRD?usp=sharing)! I'm passionate about the intersection of tech and art (especially in Web3!). Most of all, I want to harness the power of AI and entrepreneurship for social and cultural good.
 
 ### 🌱 I’m currently...
-- Working as a front-end developer for Stanford [Carta](https://carta-beta.stanford.edu/), the student-run course scheduling site that 95% of Stanford students use. Carta v3 is currently under wraps, but here's the sample React [site](https://ojl3uu.csb.app/) and [repo](https://github.com/49emily/carta-example-site) I built to join the team.
+- Working as a front-end developer for Stanford [Carta](https://carta-beta.stanford.edu/), the student-run course scheduling site that 95% of Stanford students use. Carta v3 is currently under wraps, but here's the sample [React site](https://ojl3uu.csb.app/) and [repo](https://github.com/49emily/carta-example-site) I built to join the team.
 - Taking a graduate-level blockchain engineering and theory class ([EE374](http://web.stanford.edu/class/ee374/)) with Dionysis Zindros.
 - Developing a minimally viable app to pitch to VCs with a team of 4 other students as a Stanford ASES Bootcamp fellow.
 
