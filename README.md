@@ -23,7 +23,7 @@ I'm a first-year at Stanford double-majoring in CS and [Art Practice](https://dr
 ### 📫 I'd love to talk to you!
 Email me at [emily49@stanford.edu](mailto:emily49@stanford.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/emilyszhang/). Let's build cool things together!
 
-### For more info about me, see my [resume](https://github.com/49emily/resume/blob/main/EmilyZhang_Resume_Final.pdf) and [LinkedIn](https://www.linkedin.com/in/emilyszhang/).
+### For more info about me, see my [resume](https://github.com/49emily/resume/blob/main/EmilyZhang_Resume_Final2.pdf) and [LinkedIn](https://www.linkedin.com/in/emilyszhang/).
 <!--
 **49emily/49emily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
