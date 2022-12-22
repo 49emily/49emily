@@ -11,10 +11,10 @@ I'm a first-year at Stanford double-majoring in CS and [Art Practice](https://dr
 - Worked as a Software Developement Intern for [AquaRealTime](https://www.algaetracker.com/), a Boulder-based startup building low-cost algae trackers. I built graph annotation features in Vue.js for the client site and got super passionate about ecotechnology while doing it.
 - Survived and got an A+ in MATH 61DM, Stanford's rigorous, proof-based sequence in analysis, linear algebra, and multivariable calculus and the hardest math class a Stanford frosh can take. There were only 10 people in our class! [Here are my Latex P-sets](https://www.overleaf.com/read/tfrmvxnvttvt) -- they give me PTSD, but you can look at them.
 - Conducted independent computer vision research in high school, wrote a [paper](https://github.com/49emily/ml-research-paper-2021), and presented my work at some [science fairs](https://www.societyforscience.org/press-release/2021-regeneron-isef-sao-awards/)!
-- Conceptualized and illustrated a 15-piece [AP Drawing portfolio](https://drive.google.com/drive/folders/1Gjs3cpn3r-245lZ_obt6YkLqLzuztpRD?usp=sharing) about my cultural and emotional identity that received one of 343 perfect scores on the 2022 exam. One of my colored pencil works won the Congressional Art Competition, so it's currently in the U.S. Capitol until Summer 2023!
+- Conceptualized and illustrated a 15-piece [AP Drawing portfolio](https://drive.google.com/drive/folders/1Gjs3cpn3r-245lZ_obt6YkLqLzuztpRD?usp=sharing) about my cultural and emotional identity that received one of 343 perfect scores on the 2022 exam. One of my colored pencil works won the Congressional Art Competition, so it's currently in the U.S. Capitol until summer 2023!
 
 ### 🎯 I hope to...
-- Gain more industry experience Summer 2023 -- I want to take advantage of the super exciting time in tech we're living in. If you're open to hire, I'd be so grateful if you'd reach out.
+- Gain more industry experience summer 2023 -- I want to take advantage of the super exciting time in tech we're living in. If you're open to hire, I'd be so grateful if you'd reach out.
 - Build out a couple ideas with my friends!
 - Travel to Nanjing, China to see my grandparents soon.
 - Learn how to oil paint.
